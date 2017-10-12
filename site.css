@@ -2,7 +2,7 @@
 /*	border: 1px solid red;*/
 }
 
-#page-title, #author{
+#page-title, #author, #github{
 	display:inline;
 }
 
@@ -19,4 +19,8 @@
 .author-name{
 	float:right;
 	padding-right:10px;
+}
+
+#github.a{
+	font-color:red;
 }
