@@ -1,0 +1,22 @@
+.header{
+/*	border: 1px solid red;*/
+}
+
+#page-title, #author{
+	display:inline;
+}
+
+#author {
+	width: 50px;
+}
+
+#page-title{
+	width:600px;
+}
+.page-top{
+	display:inline;
+}
+.author-name{
+	float:right;
+	padding-right:10px;
+}
